@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+    background-color: #3a4454;
+}
+
+h1 {
+    text-align: center;
+}
+
+.album {
+    width: 800px;
+    margin: auto;
+    background-color: #53687e;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
